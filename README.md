@@ -12,9 +12,8 @@ Overview : This project demonstrates basic network scanning and packet capture a
 
 <h4>Commands Used:</h4>
 <ul>
-  <li>Check Nmap Version:<br>
-  nmap --version</li>
-  <li>Check IP Address</li>
-  <li>Perform TCP SYN Scan</li>
-  <li>Store Scan Output in a Text File</li>
+  <li>Check Nmap Version:<br>nmap --version</li>
+  <li>Check IP Address<br>ifconfig</li>
+  <li>Perform TCP SYN Scan<br>nmap -sS 192.168.1.0/24</li>
+  <li>Store Scan Output in a Text File<br>nmap -sS 192.168.1.0/24 > scan_Result.txt</li>
 </ul>
