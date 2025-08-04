@@ -16,5 +16,10 @@ Overview : This project demonstrates basic network scanning and packet capture a
   <li>Check IP Address<br>ifconfig</li>
   <li>Perform TCP SYN Scan<br>nmap -sS 192.168.1.0/24</li>
   <li>Store Scan Output in a Text File<br>nmap -sS 192.168.1.0/24 > scan_Result.txt</li>
-  <li>Packet Capture in Wireshark<br><ul type='circle'><li>Captured network traffic while running Nmap scan.</li><li>Saved as: wiresharkscan.pcapng<li></ul></li>
+  <li>Packet Capture in Wireshark<br>
+    <ul type='circle'>
+      <li>Captured network traffic while running Nmap scan.</li>
+      <li>Saved as: wiresharkscan.pcapng</li>
+    </ul>
+  </li>
 </ul>
