@@ -1,0 +1,57 @@
+# Nmap 7.95 scan initiated Mon Aug  4 05:19:38 2025 as: /usr/lib/nmap/nmap -sS -oN scan_Result.txt 192.168.1.0/24
+Nmap scan report for gpon.net (192.168.1.1)
+Host is up (0.0034s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT    STATE    SERVICE
+23/tcp  filtered telnet
+53/tcp  open     domain
+80/tcp  open     http
+443/tcp open     https
+MAC Address: C8:5A:9F:BC:08:28 (zte)
+
+Nmap scan report for 192.168.1.4 (192.168.1.4)
+Host is up (0.00058s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 5C:61:99:0B:7C:E9 (Cloud Network Technology Singapore PTE.)
+
+Nmap scan report for 192.168.1.5 (192.168.1.5)
+Host is up (0.0098s latency).
+All 1000 scanned ports on 192.168.1.5 (192.168.1.5) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: DE:C4:83:C7:97:92 (Unknown)
+
+Nmap scan report for 192.168.1.11 (192.168.1.11)
+Host is up (0.0089s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+8008/tcp open  http
+8009/tcp open  ajp13
+8443/tcp open  https-alt
+9000/tcp open  cslistener
+MAC Address: 94:90:34:83:93:8D (Shenzhen Chuangwei-RGB Electronics)
+
+Nmap scan report for 192.168.1.15 (192.168.1.15)
+Host is up (0.011s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT     STATE SERVICE
+8000/tcp open  http-alt
+9080/tcp open  glrpc
+MAC Address: DA:2D:20:97:2A:B7 (Unknown)
+
+Nmap scan report for 192.168.1.108 (192.168.1.108)
+Host is up (0.0029s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+554/tcp open  rtsp
+MAC Address: B4:4C:3B:C2:32:BD (Zhejiang Dahua Technology)
+
+Nmap scan report for 192.168.1.14 (192.168.1.14)
+Host is up (0.000013s latency).
+All 1000 scanned ports on 192.168.1.14 (192.168.1.14) are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+# Nmap done at Mon Aug  4 05:20:02 2025 -- 256 IP addresses (7 hosts up) scanned in 24.51 seconds
