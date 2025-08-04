@@ -23,3 +23,9 @@ Overview : This project demonstrates basic network scanning and packet capture a
     </ul>
   </li>
 </ul>
+
+
+-Scan Output: scan_Result.txt
+-Scan Explanation: ScanningReport.pdf
+-Wireshark Capture: wiresharkscan.pcapng
+-Command Screenshots: See Images/ folder
