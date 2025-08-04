@@ -26,9 +26,9 @@ Overview : This project demonstrates basic network scanning and packet capture a
 
 <h3>References</h3>
 <ul>
-  <li><a href="https://github.com/KarunaVashisht/CyberSecurityTask1/blob/main/scan_Result.txt" target="_blank">Scan Output: scan_Result.txt</a></li>
-  <li><a href="https://github.com/KarunaVashisht/CyberSecurityTask1/blob/main/ScanningReport.pdf" target="_blank">Scan Explanation: ScanningReport.pdf</a></li>
-  <li><a href="https://github.com/KarunaVashisht/CyberSecurityTask1/blob/main/wiresharkscan.pcapng" target="_blank">Wireshark Capture: wiresharkscan.pcapng</a></li>
+  <li>Scan Output: <a href="https://github.com/KarunaVashisht/CyberSecurityTask1/blob/main/scan_Result.txt" target="_blank">scan_Result.txt</a></li>
+  <li>Scan Explanation:<a href="https://github.com/KarunaVashisht/CyberSecurityTask1/blob/main/ScanningReport.pdf" target="_blank"> ScanningReport.pdf</a></li>
+  <li>Wireshark Capture:<a href="https://github.com/KarunaVashisht/CyberSecurityTask1/blob/main/wiresharkscan.pcapng" target="_blank"> wiresharkscan.pcapng</a></li>
   <li>Command Screenshots:
     <ul>
       <li><a href="https://github.com/KarunaVashisht/CyberSecurityTask1/blob/main/ifconfig.png" target="_blank">ifconfig.png</a></li>
